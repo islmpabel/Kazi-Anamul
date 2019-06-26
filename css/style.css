@@ -1,0 +1,58 @@
+
+
+body{
+	background: url(../img/newbg.jpeg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+}
+.container{
+	width: 450px;
+	margin: 20px;
+	display: block;
+}
+
+.Admin-Login-Section {
+    background-color: #0000006b;
+    width: 200px;
+    height: 400px;
+    margin: 0;
+    display: block;
+    padding: 20px;
+}
+
+.Admin-Login-Section img {
+    width: 200px;
+    height: 200px;
+    margin: 0px;
+    display: block;
+}
+
+.Admin-Login-Section {
+    margin: 0px auto;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.from-control {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.from-control{
+	
+}
+.btn {
+    color: darkgoldenrod;
+    text-transform: uppercase;
+    margin: auto;
+    display: block;
+    transition: 0.8ms;
+
+}
+}
+
+.btn:hover{
+	cursor: pointer;
+	box-shadow: 2px 4px 3px #ffff;
+}
