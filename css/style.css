@@ -1,58 +1,173 @@
+/*
+Author Name
+Autohr Info Here
+*/
+
+/* ======Index=======
+
+1.Home
+2.About
+3.Our Work
+4.Contact
+5.
+=====================
+*/
 
 
-body{
-	background: url(../img/newbg.jpeg);
-	background-repeat: no-repeat;
+/* Global CSS */
+
+body {
+	font-family: 'Roboto Slab', serif;
+
+
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+
+}
+
+h2 {
+
+
+}
+h3 {
+
+
+}
+
+p {
+	font-size: 15px;
+
+}
+
+
+/*navigation section start*/
+.menu {
+	background-color: white;
+	padding: 25px 0px;
+}
+.nav-link {
+	color: #161616;
+}
+
+.js-scroll-trigger.active {
+    background: #dd4b2b;
+    color: #fff;
+    border-radius: 14px;
+    padding: 4px 11px!important;
+}
+/*Fusce at section start*/
+
+.hero {
+    background: url(../img/icrowdme-PSD---cssauthor.png) center top;
     background-size: cover;
 }
-}
-.container{
-	width: 450px;
-	margin: 20px;
-	display: block;
+
+
+.col-md-12.tittle{
+        text-align: center;
+
 }
 
-.Admin-Login-Section {
-    background-color: #0000006b;
-    width: 200px;
-    height: 400px;
-    margin: 0;
-    display: block;
-    padding: 20px;
+
+.col-md-12.tittle h1{
+        text-align: center;
+        color:white;
+        margin-top: 270px;
+
 }
 
-.Admin-Login-Section img {
-    width: 200px;
-    height: 200px;
-    margin: 0px;
-    display: block;
-}
-
-.Admin-Login-Section {
-    margin: 0px auto;
+.col-md-12.tittle p {
     color: white;
-    text-align: center;
-    margin: 0px auto;
-}
+      
+}    
 
-.from-control {
-    width: 100%;
-    margin-bottom: 10px;
-}
-.from-control{
-	
-}
 .btn {
-    color: darkgoldenrod;
-    text-transform: uppercase;
-    margin: auto;
-    display: block;
-    transition: 0.8ms;
-
-}
+    margin: 28px auto 56px;
+    background: #99c50a;
+    padding: 8px 34px;
+    color: darkred;
+    border-radius: 12px;
 }
 
-.btn:hover{
-	cursor: pointer;
-	box-shadow: 2px 4px 3px #ffff;
+
+/*Fusce at section End*/
+
+/*Work section start*/
+
+
+.WORKS{
+
 }
+
+.col-md-12.text {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+
+.col-md-12.text h2 {
+    text-align: center;
+    margin: 50px;
+}
+
+
+.col-md-12.text p {
+    text-align: center;
+}
+/*Work section End*/
+
+.col-md-6.dis{
+
+    background-color: #e2f8ff
+}
+
+
+.btntw{
+    margin: 28px auto 56px;
+    background: #26a6d1;
+    padding: 8px 34px;
+    color: darkred;
+    border-radius: 12px;
+}
+
+
+.col-md-6.t {
+    padding-top: 30px;
+}
+
+.col-md-6.t h1{
+
+}
+
+.col-md-6.t p{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
