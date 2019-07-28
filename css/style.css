@@ -16,11 +16,6 @@ Autohr Info Here
 
 /* Global CSS */
 
-body {
-	font-family: 'Roboto Slab', serif;
-
-
-}
 
 .no-padding {
 	padding: 0px;
@@ -141,26 +136,69 @@ p {
 }
 
 
-.col-md-6.t {
-    padding-top: 30px;
+.on {
+    background: #e2f8ff;
+    padding: 50px;
 }
 
-.col-md-6.t h1{
+.tw{
+    background: #f5f9eb;
+    padding: 50px;
+
+}
+.btnon{
+    margin: 28px auto 56px;
+    background: #26a6d1;
+    padding: 8px 34px;
+    color: darkred;
+    border-radius: 12px;
+}
+
+.btntwo{
+     margin: 28px auto 56px;
+    background: #add136;
+    padding: 8px 34px;
+    color: darkred;
+    border-radius: 12px;
+}
+
+
+.btntr {
+    margin: 28px auto 56px;
+    padding: 15px 35px;
+    color: black;
+    border-radius: 12px;
+    background: none;
+    border: 1px solid black;
+}
+
+
+
+
+
+
+.underline{
 
 }
 
-.col-md-6.t p{
+.card-title{
 
 }
 
+.card-text{
+    padding-bottom: 70px;
 
+}
 
+.underline {
+    border-top: 1px solid black;
+    display: block;
+}
 
-
-
-
-
-
+.card-body a {
+    color: black;
+    margin-left: 100px;
+}
 
 
 
